@@ -1,0 +1,35 @@
+h1 {
+    color: blueviolet;
+}
+
+#top {
+    background-color: #a7dad8; }
+
+nav.navegacion{
+    width: 100%;
+    height: 60px;
+    background-color: aqua(243,243,243);
+}
+
+nav.navegacion {
+    width: 100%;
+    height: 60px;
+    background-color: antiquewhite;
+}
+
+
+.logo_container img,logo {
+    width: 40px;
+}
+
+.logo_container span {
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+.navegacion_nav {
+    width: 50%;
+}
+
+.borde-redondo {
+    border-radius: 15px;
+}
